@@ -2,7 +2,7 @@ server:
   port: 8081
 
 product:
-  message: Product service configuration loaded from Config [dev state]
+  message: Product service configuration loaded from Config [dev]
 
 feature:
   product-cache-enabled: true
