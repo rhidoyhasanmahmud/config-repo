@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: product-service
+
+product:
+  service-name: product-service
+  version: v1

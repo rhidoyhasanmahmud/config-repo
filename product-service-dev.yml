@@ -1,0 +1,13 @@
+server:
+  port: 8081
+
+product:
+  message: Product service configuration loaded from Config Server (DEV)
+
+feature:
+  product-cache-enabled: true
+
+service:
+  timeout:
+    connection: 2000
+    read: 5000
