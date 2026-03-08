@@ -1,5 +1,4 @@
-server:
-  port: 8081
+
 
 product:
   message: Product service running in DEV environment
