@@ -1,7 +1,7 @@
 
 
 product:
-  message: Product service running in DEV environment
+  message: Product service running in DEV environment [from product-service-dev.yml]
 
 feature:
   product-cache-enabled: true
