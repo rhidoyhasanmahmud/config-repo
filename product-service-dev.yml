@@ -1,5 +1,5 @@
 product:
-  message: Product service running in DEV environment [Test 2]
+  message: Product service running in DEV environment [Test]
 
 feature:
   product-cache-enabled: true
